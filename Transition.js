@@ -1,7 +1,9 @@
 
 window.onclick = function(event) {
     let img = document.createElement("img");
-    img.src = "image/fourchette.png";
+    img.src = "image/fourchette1.png";
+    img.style.width = 50 + "px";
+    img.style.height = 50 + "px";
     img.style.position = "absolute";
     img.style.top = event.clientY + "px";
     img.style.left = event.clientX + "px";
