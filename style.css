@@ -227,7 +227,6 @@ input:invalid {
   box-shadow: 0px 15px 10px -5px #777;
   background-color: #EDEDED;
   background-size: contain;
-  animation: fondu 15s ease-in-out infinite both;
 }
 .conteneur{
   max-width: 576px;
@@ -240,7 +239,6 @@ input:invalid {
   box-shadow: 0px 0px 10px #777;
   background-color: #EDEDED;
   background-size: contain;
-  animation: fondu 10s ease-in-out infinite both;
 }
 .d1:hover, .d2:hover{
   animation-play-state: paused;
